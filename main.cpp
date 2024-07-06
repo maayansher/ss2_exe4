@@ -21,7 +21,7 @@ int main()
     Node<double> n4(1.5);
     Node<double> n5(1.6);
 
-    Tree<double> tree; // Binary tree that contains doubles.
+    Tree<double> tree; 
     tree.add_root(root_node);
     tree.add_sub_node(root_node, n1);
     tree.add_sub_node(root_node, n2);
@@ -128,7 +128,7 @@ int main()
     Node<Complex> cn6(Complex(13));
     Node<Complex> cn7(Complex(5, 3));
 
-    Tree<Complex> complexTree; // Binary tree that contains doubles.
+    Tree<Complex> complexTree; 
     complexTree.add_root(root_cnode);
     complexTree.add_sub_node(root_cnode, cn1);
     complexTree.add_sub_node(root_cnode, cn2);
