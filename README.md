@@ -44,3 +44,9 @@ Use the provided `makefile` to build and run the project:
   Implements the complex numbers including overloading method for comparing between two complex numbers.
 - gui.hpp:
   File for visualizing the trees using sfml gui.
+
+
+
+#### Sources ive used:
+GeeksForGeeks
+My big brother
