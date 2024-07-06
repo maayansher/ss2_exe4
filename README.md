@@ -8,11 +8,11 @@ Use the provided `makefile` to build and run the project:
 
    - To build main:
         ```bash
-        make tree
+      make tree
         ```
   - To run main:
       ```bash
-        ./tree
+      ./tree
       ```
   - To build tests:
       ```bash
@@ -21,12 +21,12 @@ Use the provided `makefile` to build and run the project:
       
   - To run tests:
       ```bash
-        ./test
+      ./test
       ```
       
  - To clean project:
       ```bash
-        make clean
+      make clean
       ```
         
 
