@@ -51,5 +51,5 @@ Use the provided `makefile` to build and run the project:
 
 
 #### Sources ive used:
-GeeksForGeeks
-My big brother
+- GeeksForGeeks
+- My big brother
