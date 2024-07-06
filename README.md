@@ -7,27 +7,27 @@ The tree can accpet all types of numbers including Complex numbers.
 Use the provided `makefile` to build and run the project:
 
    - To build main:
-        ```bash
-    make tree
-        ```
+     ```bash
+     make tree
+     ```
   - To run main:
-      ```bash
+    ```bash
     ./tree
-      ```
+    ```
   - To build tests:
-      ```bash
-      make test
-      ```
+    ```bash
+    make test
+    ```
       
   - To run tests:
-      ```bash
-      ./test
-      ```
+    ```bash
+     ./test
+    ```
       
  - To clean project:
-      ```bash
-      make clean
-      ```
+    ```bash
+     make clean
+    ```
         
 
 ## Project structure and explantion:
