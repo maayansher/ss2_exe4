@@ -137,6 +137,17 @@ int main()
     complexTree.add_sub_node(cn2, cn5);
     complexTree.add_sub_node(cn5, cn6);
     complexTree.add_sub_node(cn5, cn7);
+    /**
+ * The tree structure:
+ *
+ *        root = 1.1 + 4.2i
+ *           /             \
+ *         2 + 2i           1 + 8i
+ *       /       \             \
+ *   4 + 32i      1.5 + 4i     11.6
+ *                            /     \
+ *                          13       5 + 3i
+ */
     TreeVisualizer<Complex> visual1(complexTree);
     visual1.display();
 
