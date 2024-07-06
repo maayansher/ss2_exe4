@@ -17,15 +17,15 @@ Use the provided `makefile` to build and run the project:
   - To build tests:
       ```bash
       make test
-      ```
+      
   - To run tests:
       ```bash
         ./test
-        ```
+        
  - To clean project:
       ```bash
         make clean
-        ```
+        
 
 ## Project structure and explantion:
 - main.cpp:
