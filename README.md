@@ -13,7 +13,6 @@ Use the provided `makefile` to build and run the project:
   - To run main:
       ```bash
         ./tree
-        ```
   - To build tests:
       ```bash
       make test
@@ -21,7 +20,7 @@ Use the provided `makefile` to build and run the project:
   - To run tests:
       ```bash
         ./test
-        
+      
  - To clean project:
       ```bash
         make clean
